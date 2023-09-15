@@ -1,5 +1,6 @@
-# Core-Html-Assignment
-#Outputs
+# Core-Html-Assignment Outputs
+
+
 1. Assignment 1.html
 
  ![Assignment-1 html](https://github.com/Nishad-Patil/Core-Html-Assignment/assets/143208084/52c58f5d-449b-4048-a681-0800f74f6e3f)
